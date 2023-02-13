@@ -1,6 +1,3 @@
-const bcrypt = require("bcryptjs");
-const userModel = require("../models/user_schema");
-const jwt = require("jsonwebtoken");
 const productModel = require("../models/product_schema");
 
 const productController = {
